@@ -1,0 +1,1 @@
+__Each script is used to execute the command for navigating and manipulating the shell__
