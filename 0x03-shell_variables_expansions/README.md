@@ -1,0 +1,1 @@
+__Script displaying variables and expansions__
