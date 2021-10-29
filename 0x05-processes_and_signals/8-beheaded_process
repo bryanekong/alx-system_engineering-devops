@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# kills or beheads  the process 7-highlander to stop the infinite text display
+
+kill -9 "$(pgrep -f 7-highlander)"
