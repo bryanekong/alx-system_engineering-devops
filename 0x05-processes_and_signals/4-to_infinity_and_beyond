@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# a script that displays text for eternity, somewhat
+
+i=1
+while [ $i ]; do
+      echo "To infinity and beyond"
+      sleep 2
+done
