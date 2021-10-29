@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# script that:
+# script that does
 # firstly creates the file /var/run/myscript.pid containing its PID
 # then displays To infinity and beyond indefinitely
 # then displays I hate the kill command when receiving a SIGTERM signal
@@ -13,5 +13,5 @@ trap "echo Y U no love me?!" SIGINT
 while true;
 	do
     echo "To infinity and beyond"
-    sleep 2
-done
+    sleep 2;
+done;
