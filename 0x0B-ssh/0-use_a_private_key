@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# uses ssh to connect to my serveer
+ssh -i ~/.ssh/school ubuntu@35.237.164.13
